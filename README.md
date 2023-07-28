@@ -1,4 +1,4 @@
-# Projeto prtático: Otimização de uma imagem golang
+# Projeto prático: Otimização de uma imagem golang
 
 ## 🌱 Descrição do projeto 
 
